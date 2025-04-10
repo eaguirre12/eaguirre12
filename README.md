@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Evonne Aguirre 👋
 
 I'm a PhD student studying plant ecophysiology, currently working on designing and deploying a low-cost sap flow sensor for ecosystem research. 🌳💧
 
